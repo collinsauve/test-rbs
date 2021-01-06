@@ -1,0 +1,15 @@
+class Foo
+  def call_me_maybe: () -> String
+end
+
+class Bar
+  def call_me_maybe: () -> String
+end
+
+class Caller
+  def call: (Foo) -> String
+end
+
+class Main
+  def main: () -> void
+end

@@ -1,0 +1,14 @@
+GEM
+  specs:
+    rake (13.0.3)
+    rbs (1.0.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  rake (~> 13.0)
+  rbs (~> 1.0)
+
+BUNDLED WITH
+   2.2.3
